@@ -1,0 +1,29 @@
+/*!
+Theme Name: Netfusion
+Theme URI: https://netfusion.themeearth.com/
+Author: ThemeEarth
+Author URI: https://themeforest.net/user/themeearth/portfolio
+Description: Netfusion Is A AI Powered Startup & Technology WordPress Theme
+Version: 1.0.0
+Tested up to: 6.0
+Requires PHP: 7.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: netfusion
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+netfusion is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and netfusion-page-contentn Neal https://necolas.github.io/normalize.css/
+*/
+.bypostauthor {
+  font-size: 16px;
+}
+.breadcrumb-area.only-front-page {
+  display: none;
+}
